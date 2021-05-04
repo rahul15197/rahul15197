@@ -12,6 +12,11 @@ Always find fun to code and develop cool projects that can help people.
 
 I am a gamer too, so ping me if you want to lighten up your day!
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rahul15197/count.svg" />
+</p>
+
 - 🔭 I’m currently working on Hosting and Deploying apps 
 - 🌱 I’m currently learning Advanced Java 
 - 🤔 I’m looking for help with creating modern UIs 
@@ -26,8 +31,8 @@ I am a gamer too, so ping me if you want to lighten up your day!
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rahul15197)  
 
-![Profile views](https://gpvc.arturio.dev/rahul15197)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahul15197)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/rahul_maheshwari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahul-maheshwari-597bb2b6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rahul.maheshmaheshwari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iamrahul97/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Dexter1997)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/7774681) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-maheshwari-597bb2b6/)](https://www.linkedin.com/in/rahul-maheshwari-597bb2b6/)
+
 
 
