@@ -1,4 +1,4 @@
-![Developer](https://drive.google.com/uc?id=1BleKSuiZLU_4DhmmwS3aLzEESoGIy0CX)
+![Developer](https://github.com/rahul15197/rahul15197/blob/main/github_banner.png)
 ### Hi there 👋, I am Rahul Maheshwari
 #### Developer
 
