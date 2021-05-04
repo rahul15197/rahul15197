@@ -19,11 +19,20 @@ I am a gamer too, so ping me if you want to lighten up your day!
 
 <p align='center'>
   
+  <a href="mailto:rahul.maheshmaheshwari@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rahul-maheshwari-597bb2b6/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/iamrahul97/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.gg/3NUjJA2C">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://rahul-maheshmaheshwari.medium.com/">
+    <img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
