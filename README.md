@@ -3,8 +3,8 @@
 #### Developer
 
 
-###### M.Tech Graduate
-###### Coder, Developer, ML practitioner.
+#### M.Tech Graduate
+#### Coder, Developer, ML practitioner.
 Loves Python, SQL, Android dev
 Always find fun to code and develop cool projects that can help people.
 I am a gamer too, so ping me if you want to lighten up your day!
