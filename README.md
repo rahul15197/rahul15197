@@ -1,12 +1,12 @@
 ![Developer](https://github.com/rahul15197/rahul15197/blob/main/github_banner.png)
 ### Hi there 👋, I am Rahul Maheshwari 👨‍💻
-#### Developer
+#### Developer, Member Technical Staff (SDE-IC2) @ Oracle
 
 
-#### M.Tech Graduate
+#### M.Tech Graduate from IIIT Delhi
 #### Coder, Developer, ML practitioner.
 
-Loves Python, SQL, Android dev
+Loves Python, SQL, Android dev and currently working on Cloud ☁️ (OCI)
 
 Always find fun to code and develop cool projects that can help people.
 
