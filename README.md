@@ -1,16 +1,19 @@
 ![Developer](https://github.com/rahul15197/rahul15197/blob/main/github_banner.png)
 ### Hi there 👋, I am Rahul Maheshwari 👨‍💻
-#### Developer, Member Technical Staff (SDE-IC2) @ Oracle
+### Software Developer
+#### Ex-MTS (SDE2), Oracle
 
 
-#### M.Tech Graduate from IIIT Delhi
+#### M.Tech, IIIT Delhi
 #### Coder, Developer, ML practitioner.
 
-Loves Python, SQL, Android dev and currently working on Cloud ☁️ (OCI)
+## DSA & CP - C++ 💻
+## AI & ML - Python. 🖥️
+Worked with Oracle's Cloud ☁️ (OCI)
 
 Always find fun to code and develop cool projects that can help people.
 
-I am a gamer too, so ping me if you want to lighten up your day!
+I am also a Gamer 🎮, so ping me if you want to lighten up your day! 😉
 
 <p align="center"> 
   Visitor count<br>
@@ -32,13 +35,13 @@ I am a gamer too, so ping me if you want to lighten up your day!
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://rahul-maheshmaheshwari.medium.com/">
-    <img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
 
 <p align='center'>
-  💻 My workspaces<br/><br/>
+  💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />                                                       </br>                                           
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
@@ -46,7 +49,7 @@ I am a gamer too, so ping me if you want to lighten up your day!
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
   <br/>
   <br/>                                                                                                                        
-  <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white" /> 
+<!--   <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white" /> 
                                                                                                                       <br/>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
@@ -57,7 +60,7 @@ I am a gamer too, so ping me if you want to lighten up your day!
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel-Core_i5_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-4GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-830m-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />                                                                                               
+  <img src="https://img.shields.io/badge/nvidia-830m-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />                                                                                                -->
                                                                                                                           
 </p>
 
