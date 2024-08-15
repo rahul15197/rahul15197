@@ -25,10 +25,10 @@ I am also a Gamer 🎮, so ping me if you want to lighten up your day! 😉
   <a href="mailto:rahul.maheshmaheshwari@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rahul-maheshwari-597bb2b6/">
+  <a href="https://www.linkedin.com/in/rm15197/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/iamrahul97/">
+  <a href="https://www.instagram.com/rahul.zeroone/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://discord.gg/3NUjJA2C">
